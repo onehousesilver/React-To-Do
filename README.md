@@ -4,4 +4,4 @@
 
 - #1.0 To Do Setup
 - #1.1 Forms
-
+- #1.2 Form Validation

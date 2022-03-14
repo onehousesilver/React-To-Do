@@ -6,3 +6,4 @@
 - #1.1 Forms
 - #1.2 Form Validation
 - #1.3 Form Errors
+- #1.4 Custom Validation
